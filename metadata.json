@@ -1,0 +1,9 @@
+
+{
+  "name": "Live Vision",
+  "description": "A high-performance live AI assistant that sees through your webcam and talks back in real-time using Gemini 2.5 Flash Native Audio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
