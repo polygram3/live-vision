@@ -2,6 +2,11 @@
 
 ---
 
+https://github.com/user-attachments/assets/91ab9020-ad71-4433-85e6-5c55b0527e2a
+
+
+---
+
 # Gemini Live Vision 👁️🎙️
 
 A high-performance, real-time multimodal AI assistant. This application leverages the **Gemini 2.5 Live API** to process synchronized webcam frames and microphone input, creating a seamless "Vision-to-Voice" conversational experience.
